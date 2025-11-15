@@ -86,28 +86,28 @@ The page highlights the story behind each handmade piece.
 ________________________________________
 ## 10. Team Members
 The Handova project is created by a team of five members:
-### احمد محمد عيد - #### App Flow & Team Leader
+### احمد محمد عيد - App Flow & Team Leader
 -Structured app flow and wireframes and clarified the concept.
 -Added products and connected screens to maintain smooth user experience.
 -Designed the Add Product screen with animations.
 
-### يوسف محمد النحاس - #### UI Designer
+### يوسف محمد النحاس - UI Designer
 -Designed the main logo and bottom navigation bar.
 -Created and refined Profile screens for both user types.
 -Added product images and organized various sections.
 -Designed the Category Screen.
 
-### نغم صلاح عرقوب - #### UI/UX Designer
+### نغم صلاح عرقوب -  UI/UX Designer
 -Designed Login & Signup screens with a clean and engaging layout.
 -Added products and contributed to the Payment Flow.
 -Helped improve the customization experience.
 
-### مريم السيد مصطفي - #### Product Display & some Prototyping
+### مريم السيد مصطفي - Product Display & some Prototyping
 Added product sections on Home and listing pages.
 Supported building the prototype and enhancing visual flow.
 Participated in preparing the app showcase (mockups & presentation visuals).
 
-### يوسف محمد سلامه- #### User Research
+### يوسف محمد سلامه- User Research
 Conducted user research and created a survey to gather feedback.
 ________________________________________
 ## 11. Supervisor
