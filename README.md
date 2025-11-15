@@ -1,10 +1,10 @@
 # Handova
 ## 1. Project Overview
-Handova is a mobile app that connects artisans with customers who love handmade products.
+#### Handova  is a mobile app that connects artisans with customers who love handmade products.
 The app focuses on authenticity and craft culture and unique storytelling for every piece.
 Handova supports two main user types:
-•	Artisan (Seller)
-•	Customer (Buyer)
+#### •	Artisan (Seller)
+#### •	Customer (Buyer)
 The app also offers events, workshops, and trips related to handmade crafts.
 ## 2. Main Categories
 Handmade products are organized into four main sections:
@@ -107,7 +107,7 @@ Added product sections on Home and listing pages.
 Supported building the prototype and enhancing visual flow.
 Participated in preparing the app showcase (mockups & presentation visuals).
 
-### يوسف محمد سلامه- User Research
+### يوسف محمد سلامه - User Research
 Conducted user research and created a survey to gather feedback.
 ________________________________________
 ## 11. Supervisor
